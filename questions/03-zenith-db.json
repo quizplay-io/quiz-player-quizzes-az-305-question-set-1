@@ -6,10 +6,10 @@
     "dropdowns": [
         {
             "label": "Database Type",
-            "position": {
-                "x": 60,
-                "y": 46
-            },
+            "x1": 35,
+            "y1": 36,
+            "x2": 85,
+            "y2": 56,
             "options": [
                 "A single Azure SQL database",
                 "Azure SQL Managed Instance",
@@ -19,10 +19,10 @@
         },
         {
             "label": "Service Tier",
-            "position": {
-                "x": 60,
-                "y": 76
-            },
+            "x1": 35,
+            "y1": 66,
+            "x2": 85,
+            "y2": 86,
             "options": [
                 "General Purpose",
                 "Hyperscale",
